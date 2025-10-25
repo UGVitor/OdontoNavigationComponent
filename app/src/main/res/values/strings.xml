@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OdontoNavigationComponent</string>
+    <string name="textViewEnderecoPacienteDetail">Rua Exemplo, 123 - São Paulo/SP</string>
+    <string name="textViewEmailPacienteDetail">exemplo@email.com</string>
+    <string name="textViewTelefonePacienteDetail">(11)99999-9999</string>
+    <string name="textViewHistoricoMedicoPacienteDetail">Histórico de cáries tratadas.</string>
+</resources>
