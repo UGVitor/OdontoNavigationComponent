@@ -1,2 +1,9 @@
 # OdontoNavigationComponent
-an activity project in the Mobile Device Development subject
+Activity 4 - Mobile Application Development.
+Objective: Create a context-sensitive application that includes:
+-Fragments
+-ButtonNavigation
+-NavigationComponent
+-NavigationController
+-NavigationUI
+-SafeArgs
